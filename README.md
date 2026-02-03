@@ -20,3 +20,13 @@ uvicorn main:app --reload
 
 Live API: http://localhost:8000/docs (Swagger)
 
+====================================
+8 files required:
+ requirements.txt
+✅ .gitignore
+✅ .github/workflows/ci.yml
+✅ README.md
+✅ main.py
+✅ models.py
+✅ api.py
+✅ test_oms.py
